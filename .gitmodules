@@ -1,0 +1,4 @@
+[submodule "zeinab315/Arados_Odoo_Test_11"]
+	path = zeinab315/Arados_Odoo_Test_11
+	url = git@github.com:zeinab315/Arados_Odoo_Test_11.git
+	branch = app-technical-training-13.0-01-models
